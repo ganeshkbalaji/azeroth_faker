@@ -18,5 +18,4 @@ module AZEROTHFaker
       ].sample
     end
   end
-
 end
