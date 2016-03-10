@@ -7,7 +7,7 @@ An Azeorth Faker gem that provides data from the Warcraft universe
 
 #Usage:
 ``` ruby
-  AZEROTHFaker::Character.random_name "#=>Illidan Stormrage"
+  AZEROTHFaker::Character.random_name #=>"Illidan Stormrage"
 
   AZEROTHFaker::Race.name #=> "Orc"
 ```
